@@ -77,7 +77,7 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # Focus doesn't follow mouse
-focus_follows_mouse no
+focus_follows_mouse yes
 
 # autostart apps
 exec compton
